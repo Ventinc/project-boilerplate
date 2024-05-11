@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.TanStackRouterDevtools > button {
+  @apply -translate-x-16;
+}
